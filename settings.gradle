@@ -1,0 +1,2 @@
+rootProject.name = "wigilabstest"
+include ':app'
